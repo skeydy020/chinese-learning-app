@@ -1,4 +1,4 @@
-const API_KEY = "AIzaSyA67H5mlTDEDNj73YGOPiIeh7MsLOPSYCY";
+const API_KEY = "AIzaSyDrnGzp0ewFjGH8icSSJzU2J7eG8XVkNCY";
 
 document.getElementById("themeToggle").addEventListener("click", () => {
   document.body.classList.toggle("dark");
